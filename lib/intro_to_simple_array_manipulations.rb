@@ -11,7 +11,7 @@ def using_insert(list_of_esoteric_programming_languages, another_esoteric_langua
 end
 
 def using_uniq(captain_planet_and_the_planeteers)
-  captain_planet_and_the_planeteers = ["Captain Planet", "Gaia", "Kwame", "Gi", "Linka", "Wheeler", "Gaia"]
+  captain_planet_and_the_planeteers = ["Pixie", "Bob", "Mohawk", "Crew Cut", "Linka", "Wheeler"]
   new_array = captain_planet_and_the_planeteers.uniq
 end
 
